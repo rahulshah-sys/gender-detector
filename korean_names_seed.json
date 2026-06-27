@@ -1,0 +1,59 @@
+{
+  "_note": "Starter/heuristic seed list of common Korean given names. Not an exhaustive statistical dataset (no good free one exists publicly). 'unisex' = commonly used for both genders, treat as low-confidence. Expand this file over time with names + outcomes confirmed by your own client data.",
+  "surnames_to_strip": [
+    "김", "이", "박", "최", "정", "강", "조", "윤", "장", "임",
+    "한", "오", "서", "신", "권", "황", "안", "송", "전", "홍",
+    "유", "고", "문", "양", "손", "배", "백", "허", "남", "심",
+    "노", "하", "곽", "성", "차", "주", "우", "구", "나", "류"
+  ],
+  "given_names": {
+    "민준": "male", "서준": "male", "도윤": "male", "시우": "male", "주원": "male",
+    "하준": "male", "지호": "male", "준서": "male", "건우": "male", "현우": "male",
+    "우진": "male", "선우": "male", "연준": "male", "정우": "male", "승현": "male",
+    "도현": "male", "태양": "male", "지훈": "male", "민재": "male", "재윤": "male",
+    "승민": "male", "동현": "male", "영민": "male", "재현": "male", "성민": "male",
+    "태민": "male", "종현": "male", "현빈": "male", "석진": "male", "윤기": "male",
+    "남준": "male", "호석": "male", "태형": "male", "정국": "male", "준혁": "male",
+    "민성": "male", "상우": "male", "동훈": "male", "준영": "male", "성호": "male",
+
+    "서연": "female", "수아": "female", "하은": "female", "유나": "female", "서윤": "female",
+    "은서": "female", "채원": "female", "다은": "female", "소율": "female", "예은": "female",
+    "나윤": "female", "시은": "female", "하윤": "female", "아윤": "female", "지아": "female",
+    "서아": "female", "하린": "female", "주아": "female", "나은": "female", "가은": "female",
+    "혜진": "female", "수연": "female", "은지": "female", "혜원": "female", "보라": "female",
+    "예린": "female", "세은": "female", "아라": "female", "연서": "female", "은채": "female",
+    "태연": "female", "유리": "female", "소영": "female", "지은": "female", "민경": "female",
+    "지선": "female", "수진": "female", "은영": "female", "현주": "female", "미경": "female",
+
+    "지민": "unisex", "지우": "unisex", "수빈": "unisex", "연우": "unisex", "유진": "unisex",
+    "지수": "unisex", "다인": "unisex", "수민": "unisex", "하늘": "unisex", "지원": "unisex",
+    "민서": "unisex", "은우": "unisex", "현진": "unisex", "정민": "unisex", "준희": "unisex"
+  },
+  "romanized_given_names": {
+    "minjun": "male", "seojun": "male", "doyoon": "male", "doyun": "male", "siwoo": "male",
+    "juwon": "male", "hajun": "male", "jiho": "male", "junseo": "male", "geonwoo": "male",
+    "hyunwoo": "male", "woojin": "male", "seonwoo": "male", "yeonjun": "male", "jungwoo": "male",
+    "seunghyun": "male", "dohyun": "male", "taeyang": "male", "jihoon": "male", "minjae": "male",
+    "jaeyun": "male", "seungmin": "male", "donghyun": "male", "youngmin": "male", "jaehyun": "male",
+    "sungmin": "male", "taemin": "male", "jonghyun": "male", "hyunbin": "male", "seokjin": "male",
+    "yoongi": "male", "namjoon": "male", "hoseok": "male", "taehyung": "male", "jungkook": "male",
+
+    "seoyeon": "female", "sua": "female", "haeun": "female", "yuna": "female", "seoyun": "female",
+    "eunseo": "female", "chaewon": "female", "daeun": "female", "soyul": "female", "yeeun": "female",
+    "nayun": "female", "sieun": "female", "hayun": "female", "ayun": "female", "jia": "female",
+    "seoa": "female", "harin": "female", "jua": "female", "naeun": "female", "gaeun": "female",
+    "hyejin": "female", "suyeon": "female", "eunji": "female", "hyewon": "female", "bora": "female",
+    "yerin": "female", "seeun": "female", "ara": "female", "yeonseo": "female", "eunchae": "female",
+    "taeyeon": "female", "yuri": "female", "soyoung": "female", "jieun": "female", "minkyung": "female",
+    "jisun": "female", "sujin": "female", "eunyoung": "female", "hyunju": "female", "mikyung": "female",
+
+    "jimin": "unisex", "jiwoo": "unisex", "subin": "unisex", "yeonwoo": "unisex", "yujin": "unisex",
+    "jisoo": "unisex", "jisu": "unisex", "dain": "unisex", "sumin": "unisex", "haneul": "unisex",
+    "jiwon": "unisex", "minseo": "unisex", "eunwoo": "unisex", "hyunjin": "unisex", "jungmin": "unisex",
+    "junhee": "unisex"
+  },
+  "suffix_hints": {
+    "female_leaning_endings": ["a", "ah", "ra", "rin", "yeon", "eun", "ah", "yul"],
+    "male_leaning_endings": ["jun", "ho", "seok", "u", "tae", "hyun", "min", "woo"]
+  }
+}
